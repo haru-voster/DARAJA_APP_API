@@ -44,8 +44,9 @@ def pay(request):
             "PartyB": LipanaMpesaPpassword.Business_short_code,
             "PhoneNumber": phone,
             "CallBackURL": "https://sandbox.safaricom.co.ke/mpesa/",
-            "AccountReference": "Erick were",
+            "AccountReference": "VOSTER_TECH",
             "TransactionDesc": "Web Development Charges"
+            
         }
 
         
